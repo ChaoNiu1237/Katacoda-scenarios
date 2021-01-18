@@ -1,0 +1,26 @@
+{
+  "title": "cgroup-进程结束后触发事件",
+  "description": "通过cgroup的方式记录进程结束后如何触发事件",
+  "difficulty": "Beginner",
+  "time": "10minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
