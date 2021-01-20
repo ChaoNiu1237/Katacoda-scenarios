@@ -1,0 +1,26 @@
+{
+  "title": "system-run-启动进程不随容器结束而结束",
+  "description": "这是一个system-run的例子，从这里看到了system-run的强大",
+  "difficulty": "Beginner",
+  "time": "10minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
