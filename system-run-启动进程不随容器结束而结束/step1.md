@@ -15,7 +15,7 @@ EOF
 ```{{execute}}
 
 修改脚本权限
-`chmod +x /root/cg-start.sh`{{execute}}
+`chmod +x /root/start.sh`{{execute}}
 
 ## 运行容器
 
